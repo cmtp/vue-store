@@ -4,6 +4,10 @@
 ```
 npm install
 ```
+### Run fake data
+```
+npm run data:fake
+```
 
 ### Compiles and hot-reloads for development
 ```
