@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Clean Code: A Handbook of Agile Software Craftsmanship / Edition 1",
+    "price": 39.55,
+    "image": "https://prodimage.images-bn.com/pimages/9780132350884_p0_v8_s600x595.jpg",
+    "author": "Richard Bill"
+  },
+  {
+    "name": "Web Design with HTML, CSS, JavaScript and jQuery Set / Edition 1",
+    "price": 37.74,
+    "image": "https://prodimage.images-bn.com/pimages/9781118907443_p0_v1_s600x595.jpg",
+    "author": "Jo Flin"
+  },
+  {
+    "name": "Python Programming for the Absolute Beginner / Edition 3",
+    "price": 27.09,
+    "image": "https://prodimage.images-bn.com/pimages/9781435455009_p0_v1_s600x595.jpg",
+    "author": "Richard Bill"
+  },
+  {
+    "name": "Learn Windows PowerShell in a Month of Lunches / Edition 3",
+    "price": 40.77,
+    "image": "https://prodimage.images-bn.com/pimages/9781617294167_p0_v1_s550x406.jpg",
+    "author": "Mike Perse"
+  },
+  {
+    "name": "C Programming Language / Edition 2",
+    "price": 20.55,
+    "image": "https://prodimage.images-bn.com/pimages/9780131103627_p0_v2_s600x595.jpg",
+    "author": "David Cook"
+  },
+  {
+    "name": "Introduction to Computation and Programming Using Python",
+    "price": 43.2,
+    "image": "https://prodimage.images-bn.com/pimages/9780262529624_p0_v2_s600x595.jpg",
+    "author": "John Doe"
+  },
+  {
+    "name": "Introduction to Algorithms / Edition 3",
+    "price": 90.88,
+    "image": "https://prodimage.images-bn.com/pimages/9780262033848_p0_v1_s600x595.jpg",
+    "author": "Foo Bar"
+  }
+]
